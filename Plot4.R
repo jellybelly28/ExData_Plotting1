@@ -1,4 +1,4 @@
-#Plot 3: Energy sub metering over days
+#Plot 4: Multiple Plots
 
 #Part 1: Downloading the file and extracting the data
 setwd("~/Documents/")
