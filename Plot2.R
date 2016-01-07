@@ -1,7 +1,5 @@
 #Plot 2: Global Active Power Over Days
 
-#Plot 1: A histogram of the Global Active Power
-
 #Part 1: Downloading the file and extracting the data
 setwd("~/Documents/")
 fileUrl<-"https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
